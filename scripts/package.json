@@ -13,7 +13,7 @@
     "globby": "^14.0.0",
     "kleur": "^4.1.4",
     "p-limit": "^5.0.0",
-    "svelte": "^4.2.5",
+    "svelte": "^4.2.19",
     "tar": "^6.1.15"
   },
   "devDependencies": {
