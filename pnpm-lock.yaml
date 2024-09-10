@@ -599,8 +599,8 @@ importers:
         specifier: ^7.4.1
         version: 7.4.1
       path-to-regexp:
-        specifier: ^6.2.1
-        version: 6.2.1
+        specifier: ^8.0.0
+        version: 8.0.0
       preferred-pm:
         specifier: ^3.1.2
         version: 3.1.2
@@ -13088,8 +13088,9 @@ packages:
     resolution: {integrity: sha512-5DFkuoqlv1uYQKxy8omFBeJPQcdoE07Kv2sferDCrAq1ohOU+MSDswDIbnx3YAM60qIOnYa53wBhXW0EbMonrQ==}
     dev: true
 
-  /path-to-regexp@6.2.1:
-    resolution: {integrity: sha512-JLyh7xT1kizaEvcaXOQwOc2/Yhw6KZOvPf1S8401UyLk86CU79LN3vl7ztXGm/pZ+YjoyAJ4rxmHwbkBXJX+yw==}
+  /path-to-regexp@8.0.0:
+    resolution: {integrity: sha512-GAWaqWlTjYK/7SVpIUA6CTxmcg65SP30sbjdCvyYReosRkk7Z/LyHWwkK3Vu0FcIi0FNTADUs4eh1AsU5s10cg==}
+    engines: {node: '>=16'}
     dev: false
 
   /path-type@3.0.0:

@@ -154,7 +154,7 @@
     "ora": "^7.0.1",
     "p-limit": "^5.0.0",
     "p-queue": "^7.4.1",
-    "path-to-regexp": "^6.2.1",
+    "path-to-regexp": "^8.0.0",
     "preferred-pm": "^3.1.2",
     "probe-image-size": "^7.2.3",
     "prompts": "^2.4.2",
